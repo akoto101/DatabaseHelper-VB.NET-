@@ -1,0 +1,9 @@
+C:\Users\Camille Belmes\Desktop\Lexan\DatabaseHelper\DatabaseHelper\bin\Debug\DatabaseHelper.dll
+C:\Users\Camille Belmes\Desktop\Lexan\DatabaseHelper\DatabaseHelper\bin\Debug\DatabaseHelper.pdb
+C:\Users\Camille Belmes\Desktop\Lexan\DatabaseHelper\DatabaseHelper\bin\Debug\DatabaseHelper.xml
+C:\Users\Camille Belmes\Desktop\Lexan\DatabaseHelper\DatabaseHelper\obj\Debug\DatabaseHelper.vbprojResolveAssemblyReference.cache
+C:\Users\Camille Belmes\Desktop\Lexan\DatabaseHelper\DatabaseHelper\obj\Debug\DatabaseHelper.Resources.resources
+C:\Users\Camille Belmes\Desktop\Lexan\DatabaseHelper\DatabaseHelper\obj\Debug\DatabaseHelper.vbproj.GenerateResource.Cache
+C:\Users\Camille Belmes\Desktop\Lexan\DatabaseHelper\DatabaseHelper\obj\Debug\DatabaseHelper.dll
+C:\Users\Camille Belmes\Desktop\Lexan\DatabaseHelper\DatabaseHelper\obj\Debug\DatabaseHelper.xml
+C:\Users\Camille Belmes\Desktop\Lexan\DatabaseHelper\DatabaseHelper\obj\Debug\DatabaseHelper.pdb
